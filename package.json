@@ -1,0 +1,14 @@
+{
+  "name": "treasure-gen",
+  "version": "1.0.0",
+  "description": "cli for treasure tables in DMG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel MacPhee <dmacrva@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
