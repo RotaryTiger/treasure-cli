@@ -1,0 +1,192 @@
+{
+	"30": {
+		"money": {
+			"cp": {
+				"roll": "5d6",
+				"value": 1
+			},
+			"sp": {
+				"roll": "",
+				"value": 1
+			},
+			"ep": {
+				"roll": "",
+				"value": 1
+			},
+			"gp": {
+				"roll": "",
+				"value": 1
+			},
+			"pp": {
+				"roll": "",
+				"value": 1
+			}
+		},
+		"objects": {
+			"gems": {
+				"roll": "",
+				"value": 0
+			},
+			"art": {
+				"roll": "",
+				"value": 0
+			}
+		},
+		"magic": {
+			"roll": "",
+			"table" ""
+		}
+	},
+	"60": {
+		"money": {
+			"cp": {
+				"roll": "",
+				"value": 1
+			},
+			"sp": {
+				"roll": "4d6",
+				"value": 1
+			},
+			"ep": {
+				"roll": "",
+				"value": 1
+			},
+			"gp": {
+				"roll": "",
+				"value": 1
+			},
+			"pp": {
+				"roll": "",
+				"value": 1
+			}
+		},
+		"objects": {
+			"gems": {
+				"roll": "",
+				"value": 0
+			},
+			"art": {
+				"roll": "",
+				"value": 0
+			}
+		},
+		"magic": {
+			"roll": "",
+			"table" ""
+		}
+	},
+	"70": {
+		"money": {
+			"cp": {
+				"roll": "",
+				"value": 1
+			},
+			"sp": {
+				"roll": "",
+				"value": 1
+			},
+			"ep": {
+				"roll": "3d6",
+				"value": 1
+			},
+			"gp": {
+				"roll": "",
+				"value": 1
+			},
+			"pp": {
+				"roll": "",
+				"value": 1
+			}
+		},
+		"objects": {
+			"gems": {
+				"roll": "",
+				"value": 0
+			},
+			"art": {
+				"roll": "",
+				"value": 0
+			}
+		},
+		"magic": {
+			"roll": "",
+			"table" ""
+		}
+	},
+	"95": {
+		"money": {
+			"cp": {
+				"roll": "",
+				"value": 1
+			},
+			"sp": {
+				"roll": "",
+				"value": 1
+			},
+			"ep": {
+				"roll": "",
+				"value": 1
+			},
+			"gp": {
+				"roll": "3d6",
+				"value": 1
+			},
+			"pp": {
+				"roll": "",
+				"value": 1
+			}
+		},
+		"objects": {
+			"gems": {
+				"roll": "",
+				"value": 0
+			},
+			"art": {
+				"roll": "",
+				"value": 0
+			}
+		},
+		"magic": {
+			"roll": "",
+			"table" ""
+		}
+	},
+	"100": {
+		"money": {
+			"cp": {
+				"roll": "",
+				"value": 1
+			},
+			"sp": {
+				"roll": "",
+				"value": 1
+			},
+			"ep": {
+				"roll": "",
+				"value": 1
+			},
+			"gp": {
+				"roll": "",
+				"value": 1
+			},
+			"pp": {
+				"roll": "1d6",
+				"value": 1
+			}
+		},
+		"objects": {
+			"gems": {
+				"roll": "",
+				"value": 0
+			},
+			"art": {
+				"roll": "",
+				"value": 0
+			}
+		},
+		"magic": {
+			"roll": "",
+			"table" ""
+		}
+	}
+}

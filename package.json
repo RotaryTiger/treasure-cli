@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "treasure": "./bin/treasure-generator.js"
+  },
   "author": "Daniel MacPhee <dmacrva@gmail.com>",
   "license": "ISC",
   "dependencies": {
