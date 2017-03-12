@@ -32,10 +32,9 @@
 				"value": 0
 			}
 		},
-		"magic": {
-			"roll": "",
-			"table": ""
-		}
+		"magic": [
+			{ "roll": "", "table": "" }
+		]
 	},
 	"55": {
 		"money": {
@@ -70,10 +69,9 @@
 				"value": 0
 			}
 		},
-		"magic": {
-			"roll": "",
-			"table": ""
-		}
+		"magic": [
+			{ "roll": "", "table": "" }
+		]
 	},
 	"100": {
 		"money": {
@@ -108,9 +106,8 @@
 				"value": 0
 			}
 		},
-		"magic": {
-			"roll": "",
-			"table": ""
-		}
+		"magic": [
+			{ "roll": "", "table": "" }
+		]
 	}
 }
