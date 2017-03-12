@@ -1,36 +1,100 @@
 {
-	"30": {
+	"6": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "",
-				"value": 1
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"16": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"26": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"36": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"44": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"52": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": {
 			"roll": "",
@@ -39,36 +103,32 @@
 	},
 	"60": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "",
-				"value": 1
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"65": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": {
 			"roll": "",
@@ -77,74 +137,134 @@
 	},
 	"70": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "",
-				"value": 1
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": {
 			"roll": "",
 			"table": ""
 		}
 	},
-	"95": {
+	"75": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "",
-				"value": 1
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"78": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"80": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"85": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"92": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"97": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
+		},
+		"magic": {
+			"roll": "",
+			"table": ""
+		}
+	},
+	"99": {
+		"money": {
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
+		},
+		"objects": {
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": {
 			"roll": "",
@@ -153,36 +273,15 @@
 	},
 	"100": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "",
-				"value": 1
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": {
 			"roll": "",
