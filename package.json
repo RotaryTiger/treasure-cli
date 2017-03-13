@@ -4,7 +4,8 @@
   "description": "cli for treasure tables in DMG",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./lib/roll-spec.js"
+    "test": "mocha ./lib/roll-spec.js",
+    "start": "treasure"
   },
   "bin": {
     "treasure": "./bin/treasure-generator.js"
