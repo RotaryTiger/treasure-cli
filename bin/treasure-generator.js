@@ -11,11 +11,7 @@ program
 	.option('-t, --type <type>', 'Type of treasure - either "individual" or "hoard"')
 	.parse(process.argv);
 
-if (!program.challenge || !program.type) {
-	console.log('--challenge and --type are required');
-	console.log('type --help if you need assistance');
-	process.exit(1);
-} else {
+if ((program.challenge || program.challenge === 0) && program.type) {
 	if (program.challenge < 0 || program.challenge > 20) {
 		console.log('challenge must be between 0 and 20');
 		process.exit(1);
@@ -26,4 +22,8 @@ if (!program.challenge || !program.type) {
 		console.log('"' + program.type + '" is not a recognized type');
 	}
 	process.exit(0);
+} else {
+	console.log('--challenge and --type are required');
+	console.log('type --help if you need assistance');
+	process.exit(1);
 }

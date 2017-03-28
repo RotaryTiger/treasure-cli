@@ -1,36 +1,15 @@
 {
 	"30": {
 		"money": {
-			"cp": {
-				"roll": "3d6",
-				"value": 100
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "1d6",
-				"value": 10
-			},
-			"gp": {
-				"roll": "",
-				"value": 1
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "3d6", "value": 100 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "1d6", "value": 10 },
+			"gp": { "roll": "", "value": 1 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
@@ -38,36 +17,15 @@
 	},
 	"60": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "6d6",
-				"value": 10
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "2d6",
-				"value": 10
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "6d6", "value": 10 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "2d6", "value": 10 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
@@ -75,36 +33,15 @@
 	},
 	"70": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "3d6",
-				"value": 10
-			},
-			"gp": {
-				"roll": "2d6",
-				"value": 10
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "3d6", "value": 10 },
+			"gp": { "roll": "2d6", "value": 10 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
@@ -112,36 +49,15 @@
 	},
 	"95": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "4d6",
-				"value": 10
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "4d6", "value": 10 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
@@ -149,36 +65,15 @@
 	},
 	"100": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "2d6",
-				"value": 10
-			},
-			"pp": {
-				"roll": "3d6",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "2d6", "value": 10 },
+			"pp": { "roll": "3d6", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }

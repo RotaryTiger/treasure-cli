@@ -1,36 +1,15 @@
 {
 	"15": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "2d6",
-				"value": 1000
-			},
-			"gp": {
-				"roll": "8d6",
-				"value": 100
-			},
-			"pp": {
-				"roll": "",
-				"value": 1
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "2d6", "value": 1000 },
+			"gp": { "roll": "8d6", "value": 100 },
+			"pp": { "roll": "", "value": 1 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
@@ -38,36 +17,15 @@
 	},
 	"55": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "1d6",
-				"value": 1000
-			},
-			"pp": {
-				"roll": "1d6",
-				"value": 100
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "1d6", "value": 1000 },
+			"pp": { "roll": "1d6", "value": 100 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
@@ -75,36 +33,15 @@
 	},
 	"100": {
 		"money": {
-			"cp": {
-				"roll": "",
-				"value": 1
-			},
-			"sp": {
-				"roll": "",
-				"value": 1
-			},
-			"ep": {
-				"roll": "",
-				"value": 1
-			},
-			"gp": {
-				"roll": "1d6",
-				"value": 1000
-			},
-			"pp": {
-				"roll": "2d6",
-				"value": 100
-			}
+			"cp": { "roll": "", "value": 1 },
+			"sp": { "roll": "", "value": 1 },
+			"ep": { "roll": "", "value": 1 },
+			"gp": { "roll": "1d6", "value": 1000 },
+			"pp": { "roll": "2d6", "value": 100 }
 		},
 		"objects": {
-			"gems": {
-				"roll": "",
-				"value": 0
-			},
-			"art": {
-				"roll": "",
-				"value": 0
-			}
+			"gems": { "roll": "", "value": 0 },
+			"art": { "roll": "", "value": 0 }
 		},
 		"magic": [
 			{ "roll": "", "table": "" }
